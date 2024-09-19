@@ -1,8 +1,8 @@
 # My first cpp program #
-This program loops an array of characters and writes them to the console
+- This program loops an array of characters and writes them to the console
 one by one.
 
-It also makes a beep after every character
+- It also makes a beep after every character
 
 
 
